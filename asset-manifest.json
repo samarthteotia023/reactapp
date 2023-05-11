@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.c6073c32.js",
-    "static/js/787.6dba8433.chunk.js": "/static/js/787.6dba8433.chunk.js",
-    "static/media/spinner.gif": "/static/media/spinner.e05d5d7769c6c87caf2f.gif",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.c6073c32.js.map": "/static/js/main.c6073c32.js.map",
-    "787.6dba8433.chunk.js.map": "/static/js/787.6dba8433.chunk.js.map"
+    "main.css": "/https//samarthteotia023.github.io/reactapp/static/css/main.e6c13ad2.css",
+    "main.js": "/https//samarthteotia023.github.io/reactapp/static/js/main.d21d9c0d.js",
+    "static/js/787.6dba8433.chunk.js": "/https//samarthteotia023.github.io/reactapp/static/js/787.6dba8433.chunk.js",
+    "static/media/spinner.gif": "/https//samarthteotia023.github.io/reactapp/static/media/spinner.e05d5d7769c6c87caf2f.gif",
+    "index.html": "/https//samarthteotia023.github.io/reactapp/index.html",
+    "main.e6c13ad2.css.map": "/https//samarthteotia023.github.io/reactapp/static/css/main.e6c13ad2.css.map",
+    "main.d21d9c0d.js.map": "/https//samarthteotia023.github.io/reactapp/static/js/main.d21d9c0d.js.map",
+    "787.6dba8433.chunk.js.map": "/https//samarthteotia023.github.io/reactapp/static/js/787.6dba8433.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c6073c32.js"
+    "static/js/main.d21d9c0d.js"
   ]
 }
