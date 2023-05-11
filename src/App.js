@@ -18,7 +18,7 @@ export default class App extends Component {
   render() {
     
     return (
-      <Router>
+      <Router basename='/reactapp'>
           <Navbar />
       <div >  
         <Routes>
